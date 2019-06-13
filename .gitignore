@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.ipynb
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.json
+*.tfrecord
+*.exr
+
