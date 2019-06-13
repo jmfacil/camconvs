@@ -59,9 +59,11 @@ Note: You may need to set the enviroment variable `LMBSPECIALOPS_LIB`
   (venvname)$ pew add python/
   ```
 #### 5. Try our Data Sampling and CAM-Conv Channels demo:
-You can run to the iPython Notebook and play with our Datawriter, Datareader and data augmentation operations to train CAM-Convs `ipython/DEMO_DATA_AUGMENTATION.ipynb`.
+You can run the iPython Notebook and play with our Datawriter, Datareader and data augmentation operations to train CAM-Convs `ipython/DEMO_DATA_AUGMENTATION.ipynb`.
 <p align="center">
 <img src='ipython/demo/images/demo2.gif' width=900>
   
   </p>
- #### 5. Network code coming soon!
+  
+#### 6. Network code coming soon!
+We are planning to add a second exaple including a Network training with multiple cameras. 
