@@ -182,7 +182,7 @@ def compute_losses(data,predictions,reduction_factor = 0.6,
                 loss_dict[lkr+'scaled_sig']=_scaled_sig_loss
             #NORMALS:
             if 'N' in p:
-                _normal_loss = pointwise_l2_loss(p['N'],_depth_gt,epsilon=epsilon)
+                _normal_loss = pointwise_l2_loss(p['N'],_norm_gt,epsilon=epsilon)
                 loss_dict[lkr+'normal']=_normal_loss
             #CONFIDENCE:
             if 'C' in p and 'D' in p:
