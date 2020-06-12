@@ -12,7 +12,7 @@ This repository contains original implementation of the [paper](http://openacces
 The page of the paper is http://webdiis.unizar.es/~jmfacil/camconvs/
 
 ## Citing
-Please cite CFL in your publications if it helps your research:
+Please cite CAM-Convs in your publications if it helps your research:
 ```bibtex
 @InProceedings{Facil_2019_CVPR,
 author = {Facil, Jose M. and Ummenhofer, Benjamin and Zhou, Huizhong and Montesano, Luis and Brox, Thomas and Civera, Javier},
